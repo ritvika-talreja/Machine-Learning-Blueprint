@@ -1,7 +1,5 @@
-# Machine Learning Mindmap
+# Machine Learning Data Processing
 
-### Machine Learning Data Processing
+# Machine Learning Concepts
 
-### Machine Learning Concepts
-
-### Machine Learning Algorithms
+# Machine Learning Algorithms
